@@ -20,6 +20,15 @@ Key Concepts
 - Analyzed the impact of public health funding cuts and local efforts in Michigan.
 - Compared reported infection rates, reinfection trends, and response strategies.
 
+Space 2.0 Methodology
+1. Input Data: Users can enter jurisdiction information — reported STI cases, population, prior and future funding. 
+2. Estimate Incidence: Reported cases adjusted using national ratios to estimate total (unreported/reported) infections. 
+3. Model then projects future STI incidence under new funding level using historical data that links changes in federal finding to changes in infection rates. 
+4. Calculate change in infection by comparing before/after incidence to estimate # of additional infections. 
+5. Multiply STI changes by probability of STI attributable infection. 
+Estimate cost by multiplying infections by published lifetime medical cost per STI/HIV infection to calculate cost impact. 
+
+
  Key Findings
 - STI reinfection rates remain a concern, especially for gonorrhea and latent syphilis.
 - Budget cuts in 2025 are projected to cause a $398 million reduction in Michigan’s public health funding.
